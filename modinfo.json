@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "stack_logs32",
+  "name": "Logs stacks by 32",
+  "authors": [
+    "Misterix"
+  ],
+  "description": "Stack size of logs increased to 32.",
+  "version": "0.99.0-rc1",
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true
+}
